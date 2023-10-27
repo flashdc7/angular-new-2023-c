@@ -1,0 +1,4 @@
+[submodule "src/app/heroes"]
+path = "src/app/heroes"
+url = "https://github.com/flashdc7/angular-bases-2023/"
+
